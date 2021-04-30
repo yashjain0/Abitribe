@@ -1,2 +1,1 @@
-# smheer_calci
-repository of calciall
+`E-Commerce webiste for online jewellery shop.`
