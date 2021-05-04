@@ -213,8 +213,8 @@ h1, h2, h3, h4, h5, h6 {
 #front {
   width: 100%;
   height: 100vh;
-  background: url("../images/img-main.jpg") top center;
-  background-size: cover;
+  background: url("../images/back.png") top center;
+  background-size: cov er;
 }
 
 #front:before {
